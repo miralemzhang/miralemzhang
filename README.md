@@ -2,8 +2,9 @@
 <h3 align="center">Cantonese | 27' UG - ZHEJIANG UNI. | AI4S BDS</h3>
 <h3 align="center">Intern (01/2026- ) : Embodied-AI B&D 📍 <a href="https://www.getui.com/"><img src="https://img.shields.io/badge/GETUI-00B8A9?style=flat-square&logoColor=white" alt="getui" /></a></h3>
 
-
-<img align="center" src="https://raw.githubusercontent.com/miralemzhang/miralemzhang/main/metrics.svg" alt="Metrics" width="600">
+<p align="center">
+<img src="https://raw.githubusercontent.com/miralemzhang/miralemzhang/main/metrics.svg" alt="Metrics" width="400">
+</p>
 
 <div align="center">
 
