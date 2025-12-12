@@ -13,3 +13,10 @@
 [![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,ts,java,react,docker,linux,js&theme=dark)](https://skillicons.dev)
 
 </div>
+
+
+<div align="center">
+  <picture>
+    <img src="https://raw.githubusercontent.com/miralemzhang/miralemzhang/main/bg.png" alt="background" width="300" />
+  </picture>
+</div>
